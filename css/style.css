@@ -75,3 +75,7 @@ header a {
 	border: 5px #ccc solid;
 	padding: 1px;
 }
+
+header h1 {
+	color: rgb(152,173,166);
+}
