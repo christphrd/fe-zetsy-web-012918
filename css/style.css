@@ -52,3 +52,26 @@ footer {
 .small {
 	font-size: 0.8em;
 }
+
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
+#featured img {
+	border: 5px rgb(152,173,166) solid;
+}
+
+#featured a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+#press {
+	margin-bottom: 20px;
+}
+
+#press img {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
